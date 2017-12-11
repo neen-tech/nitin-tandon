@@ -1,0 +1,6 @@
+framework module PNTToolbar {
+  umbrella header "PNTToolbar-umbrella.h"
+
+  export *
+  module * { export * }
+}
